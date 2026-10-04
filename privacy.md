@@ -23,6 +23,7 @@ To look up places, TravelDex sends the place's name or coordinates, and nothing 
 - Apple Maps (search, details, routes, Look Around)
 - OpenStreetMap servers (opening hours, cuisine, dietary tags)
 - Wikimedia Commons (place photos)
+- Google Places, in TestFlight beta versions only (photos, opening hours)
 - the place's own website, when it has one (menus, dietary information, photos)
 
 These services have their own privacy policies. They only receive what's needed to answer each request.
