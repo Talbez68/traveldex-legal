@@ -6,6 +6,8 @@ title: TravelDex Support
 
 TravelDex is an iPhone travel planner for the trip itself: nearby alerts for your saved places, day plans with walking routes, and a record of where you've been.
 
+Keep kosher or eat vegan? See [Kosher and vegan food on your trip](kosher): how TravelDex shows who certifies a place.
+
 ## Contact
 Questions, problems or ideas: **[traveldexsupport@gmail.com](mailto:traveldexsupport@gmail.com)**. Please include your iPhone model and iOS version if something isn't working.
 
