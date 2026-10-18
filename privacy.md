@@ -5,7 +5,7 @@ permalink: /privacy
 
 # TravelDex Privacy Policy
 
-_Last updated: 11 October 2026_
+_Last updated: 18 October 2026_
 
 TravelDex is a travel planner. We (the developer) do not run servers that receive your data, do not use analytics or advertising, and do not track you. The only exception is feedback you choose to send from a test version (see "Test versions" below).
 
@@ -16,7 +16,7 @@ Your trips, places, photos you add, packing list, preferences and badges are sto
 If you share a trip, the people you invite see and can edit that trip's name, dates, places, plans, notes, visits, flights and tips through Apple's iCloud sharing. If the trip is part of a group of trips, they also see the group's name and the invitation links of its other trips. Sharing a whole group (Share group) invites them to every trip in it, using the same people and permissions. On a shared trip whose packing is set to Pack together (the default once someone joins your trip), they also see and can edit its packing list: each item's name, category, bag, count, notes and a small copy of its photo, with who packed it. With Each packs their own, your packing list stays yours. Your other photos, preferences, badges and alert settings are never shared. You can stop sharing at any time from the trip's Share trip screen, or the group's Share group screen.
 
 ## Permissions
-- **Location** – to show distances, order walking routes and alert you when you're near a saved place (with "Always", also when the app is closed). Your location is not sent to us.
+- **Location** – to show distances, order walking routes, alert you when you're near a saved place (with "Always", also when the app is closed), and, when you open Explore here, find places around you that match your preferences. Your location is not sent to us; for Explore here, Apple Maps receives the coordinates to search around, and OpenStreetMap the places it found, to check what's open.
 - **Photos** – to add photos you took at your saved places (and, if you choose, photos from your shared albums), suggest which places you visited, find past trips, and read places or tips from screenshots and videos you pick. Photos are analysed on your device.
 - **Camera** – to photograph the things you pack.
 - **Speech recognition** – to turn what's said in a travel video you choose into tips. The speech is recognised on your iPhone.
