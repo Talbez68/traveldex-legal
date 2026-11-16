@@ -5,9 +5,9 @@ permalink: /privacy
 
 # TravelDex Privacy Policy
 
-_Last updated: 18 October 2026_
+_Last updated: 16 November 2026_
 
-TravelDex is a travel planner. We (the developer) do not run servers that receive your data, do not use analytics or advertising, and do not track you. The only exception is feedback you choose to send from a test version (see "Test versions" below).
+TravelDex is a travel planner. We (the developer) do not run servers that receive your data, do not use analytics or advertising, and do not track you. The only exception is feedback you choose to send (see "Feedback" below).
 
 ## Where your data is stored
 Your trips, places, photos you add, packing list, preferences and badges are stored on your iPhone (and your Apple Watch, if you use the TravelDex Watch app). If iCloud is turned on, Apple stores a copy in your private iCloud account so your devices stay in sync. We cannot see it.
@@ -38,8 +38,8 @@ To look up places and plan your days, TravelDex sends the place's name, a link y
 
 These services have their own privacy policies. They only receive what's needed to answer each request.
 
-## Test versions
-In TestFlight test versions you can send feedback by shaking the phone or from Settings → Send feedback. Only when you tap Send, we receive what you wrote, a screenshot of the screen you were on, the app version, your device model, iOS version and language, and, if you include it, the app's arrival log (recent nearby-alert decisions with place names and distances). It is stored in TravelDex's iCloud database, read only by the developer to fix problems, and deleted when no longer needed. The App Store version has no feedback button and sends nothing.
+## Feedback
+You can send feedback from Settings → Send feedback. Only when you tap Send, we receive what you wrote, the app version, your device model, iOS version and language, and, if you include it, the app's arrival log (recent nearby-alert decisions with place names and distances). In TestFlight test versions you can also shake the phone to send feedback, and then a screenshot of the screen you were on is included unless you turn it off. Feedback is not linked to your name or Apple Account. It is stored in TravelDex's iCloud database, read only by the developer to fix problems and improve the app, and deleted when no longer needed. Nothing is sent unless you tap Send.
 
 ## Purchases
 Subscriptions and Trip Passes are handled by Apple. We never see your payment details.
@@ -48,7 +48,7 @@ Subscriptions and Trip Passes are handled by Apple. We never see your payment de
 TravelDex is not directed at children under 13.
 
 ## Deleting your data
-Delete a trip in the app, or delete the app. To remove the iCloud copy, go to Settings → [your name] → iCloud → Manage Storage → TravelDex. To have test-version feedback you sent deleted, email us.
+Delete a trip in the app, or delete the app. To remove the iCloud copy, go to Settings → [your name] → iCloud → Manage Storage → TravelDex. To have feedback you sent deleted, email us.
 
 ## Changes
 When TravelDex starts using your data in a new way, this page is updated first, with a new date above.
