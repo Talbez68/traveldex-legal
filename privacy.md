@@ -5,7 +5,7 @@ permalink: /privacy
 
 # TravelDex Privacy Policy
 
-_Last updated: 16 November 2026_
+_Last updated: 19 November 2026_
 
 TravelDex is a travel planner. We (the developer) do not run servers that receive your data, do not use analytics or advertising, and do not track you. The only exception is feedback you choose to send (see "Feedback" below).
 
@@ -23,13 +23,13 @@ If you share a trip, the people you invite see and can edit that trip's name, da
 - **Calendar** – to import bookings for your trip days and add the stops and flights you schedule to your calendar.
 - **Notifications** – for nearby alerts, arrival questions and check-out reminders.
 
-Text recognition in photos and screenshots, place labels, tips from videos and packing suggestions use Apple's on-device features (including Apple Intelligence when available). Nothing is uploaded for them.
+Text recognition in photos and screenshots, place labels, tips from videos, packing suggestions and reading the preferences you type use Apple's on-device features (including Apple Intelligence when available). Nothing is uploaded for them, TravelDex uses no cloud AI service, and it has no chatbot.
 
 ## Services the app contacts
 To look up places and plan your days, TravelDex sends the place's name, a link you pasted, or coordinates — and nothing that identifies you — to:
 - Apple Maps (search, details, routes, travel times, Look Around)
 - Apple Weather (weather for your trip days: only rounded coordinates of where the day's stops are, and the dates)
-- OpenStreetMap servers (opening hours, cuisine, dietary tags)
+- OpenStreetMap's Overpass servers (opening hours, cuisine, dietary tags): overpass-api.de, and the mirror at maps.mail.ru (run by VK) when that one doesn't answer
 - Wikimedia Commons (place photos)
 - the place's own website, when it has one (opening hours, menus, dietary information, photos)
 - Google Maps, only when you paste or share a Google Maps link (to open the link and read its places)
@@ -39,7 +39,7 @@ To look up places and plan your days, TravelDex sends the place's name, a link y
 These services have their own privacy policies. They only receive what's needed to answer each request.
 
 ## Feedback
-You can send feedback from Settings → Send feedback. Only when you tap Send, we receive what you wrote, the app version, your device model, iOS version and language, and, if you include it, the app's arrival log (recent nearby-alert decisions with place names and distances). In TestFlight test versions you can also shake the phone to send feedback, and then a screenshot of the screen you were on is included unless you turn it off. Feedback is not linked to your name or Apple Account. It is stored in TravelDex's iCloud database, read only by the developer to fix problems and improve the app, and deleted when no longer needed. Nothing is sent unless you tap Send.
+You can send feedback from Settings → Send feedback. Only when you tap Send, we receive what you wrote, the app version, your device model, iOS version and language, and, if you include it, the app's arrival log (recent nearby-alert decisions with place names and distances). In TestFlight test versions you can also shake the phone to send feedback, and then a screenshot of the screen you were on is included unless you turn it off. Feedback is not linked to your name or Apple Account. It is stored in TravelDex's iCloud database, read only by the developer to fix problems and improve the app, and deleted within 12 months of being sent. Nothing is sent unless you tap Send.
 
 ## Purchases
 Subscriptions and Trip Passes are handled by Apple. We never see your payment details.
@@ -48,7 +48,7 @@ Subscriptions and Trip Passes are handled by Apple. We never see your payment de
 TravelDex is not directed at children under 13.
 
 ## Deleting your data
-Delete a trip in the app, or delete the app. To remove the iCloud copy, go to Settings → [your name] → iCloud → Manage Storage → TravelDex. To have feedback you sent deleted, email us.
+Delete a trip in the app, or delete the app. To remove the iCloud copy, go to Settings → [your name] → iCloud → Manage Storage → TravelDex. To have feedback you sent deleted sooner, email us roughly when you sent it and a few of its words (it isn't linked to your name, so that is how we find it), and we delete it within 30 days.
 
 ## Changes
 When TravelDex starts using your data in a new way, this page is updated first, with a new date above.
